@@ -1,4 +1,4 @@
-FROM openhistorymap/baseimporter
+FROM python
 
 COPY mapping.json .
 
